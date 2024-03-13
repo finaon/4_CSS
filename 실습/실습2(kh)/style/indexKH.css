@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: white;
+    background: #6d6565;
+    font-family: "Noto Sans KR", sans-serif;
+    padding-top: 60px;
+    padding-left: 72px;
+}
+
+div,input{box-sizing: border-box; }
+ 
+.wrap{width: 1000px;height: 800px; margin: auto;}
